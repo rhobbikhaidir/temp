@@ -1,7 +1,8 @@
 {
   "company": {
-    "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "name": "BBHQ",
+    "logo": "/assets/images/bbhq-logo.png",
+    "footerLogo": "/assets/images/bbhq.png"
   },
   "navigation": [
     {
@@ -27,58 +28,53 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "BBHQ",
+    "subtitle": "Berantas Buta Huruf Quran",
+    "description": "BBHQ menawarkan program khusus yang dirancang untuk siswa sekolah agar mereka dapat belajar membaca Al-Qur'an dengan cepat dan efektif. Dengan metode interaktif dan pengajaran berpengalaman, kami memastikan proses belajar menjadi menarik dan bermanfaat.",
+    "img": "/assets/images/hero3.jpg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Hubungi Kami",
       "href": "#"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:berantasbutahurufquran@gmail.com?subject=Assalamualaikum BBHQ"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Bersama BBHQ",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Wujudkan Generasi Siswa Paham Al-Qur'an Bersama BBHQ",
+        "description": " melalui pendekatan pembelajaran yang efektif dan menyenangkan. Dengan bimbingan guru ahli, media interaktif, dan evaluasi rutin, siswa didorong untuk menguasai bacaan Al-Qur'an secara lancar dan memahami tajwid dengan benar. Program ini memastikan siswa mendapatkan fondasi yang kuat dalam membaca Al-Qur'an serta motivasi untuk terus mengembangkan pengetahuan keagamaan mereka",
+        "img": "/assets/images/product1.png"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "BBHQ adalah teman terbaik bagi siswa",
+        "description": "memberikan bimbingan yang menyeluruh dan menarik. Program ini dirancang untuk membantu siswa menguasai bacaan Al-Qur'an dengan cara yang mudah dipahami, memperkuat pengucapan yang benar, dan membentuk karakter yang berlandaskan nilai-nilai Al-Qur'an.",
+        "img": "/assets/images/product3.png"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "BBHQ",
+    "subtitle": "Dibimbing oleh Hafidz Berpengalaman?",
+    "description": "Guru yang terlatih dan tersertifikasi akan memberikan pengajaran kepada siswa, memastikan kualitas dan standarisasi metode pengajaran",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Hairuddin S.SI",
+        "description": "Hafidz Hairuddin S.SI, atau akrab disapa Khoir Abu Yasir, adalah lulusan UIN Syarif Hidayatullah dengan pengalaman luas di madrasah dan pesantren, serta merupakan Guru Al-Qur'an bersertifikat Ummi dengan sanad riwayat Hafs dan Syu'bah. Dedikasinya dalam mendidik generasi muda menjadikannya tokoh yang berkomitmen memberantas buta huruf Al-Qur'an.",
+        "icon": "/assets/images/ustKhair.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "Muhammad Rafli S.Pd",
+        "description": "Muhammad Rafli S.Pd adalah seorang guru sekolah dan TPA yang memiliki pengalaman di bidang Al-Qur'an. Lulusan dari berbagai lembaga pendidikan, termasuk Institut Agama Islam Persis Bandung, Rafli juga aktif sebagai guru tahfidz dan sedang mempelajari sanad Al-Qur'an riwayat Hafs dan Syu'bah 'an Asim. Saat ini, beliau mengajar di Rumah Tahfiz Qur'an Jakut dan memiliki komitmen kuat dalam mendidik generasi penerus dalam pemahaman Al-Qur'an.",
+        "icon": "/assets/images/rafli.png"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
-      },
-      {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Muh. Yusuf S.Pd",
+        "description": "Muh. Yusuf, S.Pd, adalah seorang guru yang memiliki latar belakang pendidikan yang kuat, dimulai dari SDN Bekasi, Ponpes Panatagama Yogyakarta, MA Muhammadiyah Galesong, hingga melanjutkan studi di Fakultas Tarbiyah, Institut Agama Islam Persis Bandung. Dengan pengalaman pendidikan yang luas, beliau berkomitmen untuk terus mendidik dan membimbing generasi muda dalam bidang agama dan pendidikan.",
+        "icon": "/assets/images/yusuf.png"
       }
     ]
   },
@@ -122,32 +118,22 @@
     ]
   },
   "about": {
-    "sections": [
+    "socialMedia": [
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "link": "https://www.instagram.com/berantasbutahuruf_alquran/",
+        "icon": "/assets/images/instagram.png",
+        "alt": "instagram"
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "link": "https://www.instagram.com/berantasbutahuruf_alquran/",
+        "icon": "/assets/images/whatsapp.png",
+        "alt": "Whatsapp"
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "link": "mailto:berantasbutahurufquran@gmail.com?subject=Assalamualaikum BBHQ",
+        "icon": "/assets/images/mail.png",
+        "alt": "Mail"
       }
-    ],
-    "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
-    }
+    ]
   }
 }
